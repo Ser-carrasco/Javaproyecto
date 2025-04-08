@@ -3,7 +3,7 @@
  */
 
 package com.mycompany.trabajogithub;
-
+import java.util.Scanner;
 /**
  *
  * @author Sergio Carrasco
